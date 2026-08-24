@@ -1,4 +1,4 @@
 # Naviguer
 
-- [Application de Videoprojection de Chants](https://impala42.github.io/simple-videoproj-louange/)
+- [PraisePanel - Application de Videoprojection de Chants en Ligne](https://impala42.github.io/praise-panel/)
 - [Simubac - Lycée Rudloff](https://lyceerudloff.com/simubac/)
