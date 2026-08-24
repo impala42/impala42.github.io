@@ -1,3 +1,3 @@
 # Naviguer
 
-[application de videoprojection](https://impala42.github.io/simple-videoproj-louange/)
+[Application de Videoprojection de Chants](https://impala42.github.io/simple-videoproj-louange/)
